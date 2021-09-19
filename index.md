@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Dedicated
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-You can use the [editor on GitHub](https://github.com/Boheme130/Dedicated.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![avatar](https://i.loli.net/2021/09/19/OS9gadXIsqjc3ib.jpg)
+<br>
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+作品：Dedicated <br>
+作者：David Leavitt <br>
+评分：4.7/5 <br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+关键词：短篇，女性视角，一个直女两个Gay，自我认知
 
-```markdown
-Syntax highlighted code block
+一个罕见的全程女性视角叙事
 
-# Header 1
-## Header 2
-### Header 3
+在Dedicated里，23岁的Celia是一个工薪族，她刚刚大学毕业在出版社工作，周末在她两个大学朋好友的豪宅别墅里度假：Andrew活泼开放，他一头金发，身材纤细，用他自己的话说，他若出生在19世纪，一定是王尔德的茶会好友之一；而Nathan肤色黝黑，他比起Andrew更加现实谨慎。Nathan和Andrew都是富人家庭的孩子，他们表面是两家竞争广告公司的对手，实际上他们私下有交往，经常趁Nathan父母不在家时幽会。
 
-- Bulleted
-- List
+Celia作为两人关系的第三者，Andrew和Nathan每次发生情感矛盾都会向她倾吐。Celia”肥，丑，而且害羞”(她自己的原话)，她在大学里的异性缘就几乎为零，而她却总是能吸引Gay的友情。大学刚开始时，她和Nathan, Andrew就在课上成为了好友，在她还不知道两人的性取向之前，Celia还暗恋Nathan. 现在Celia和两个不能回报她的爱意的男生经常在一起，她有时感到怅然若失，但又舍不得这段友情。
 
-1. Numbered
-2. List
+Dedicated讲的就是Celia观看Nathan和Andrew吵架又和好的一个下午，中间穿插了三人大学相识、暑假欧洲行(Andrew和Nathan也在意大利第一次确定关系)、多年来分分合合的回忆。这个故事表面上是透过Celia的眼光看她两个好友的爱情，实际上是女孩看自己的过程。Celia因为外貌不出众难以获得异性恋男生的青睐，她在同志的情感里充当了一个倾听者/协调者的角色，并以此找到了她的存在价值，而她在间接体会他人情感的过程里也充分意识到自己需要改变：她嫉妒Gay在爱情体验上的不同，Celia作为直女，她和Nathan和Andrew无论是多好的朋友，对方都有她无法理解的地方。当Nathan带着Celia去她向往已久的gay bar，但Celia却因为性别被保安拒之门外时，她的疏远隔绝感让她再一次看清了自己的现实。Celia看着Nathan进入gay bar之前脸上闪现而过的情欲，她不禁向往起这个她永远不能体验的世界。
 
-**Bold** and _Italic_ and `Code` text
+Celia发现她爱的男生都只喜欢男生，异性恋的男生对她没有兴趣，同性恋的男生对她不可能产生情欲，这些年里她不断怀疑自己作为女性的身份认同。原本她和Andrew, Nathan三人两两之间只是朋友关系，然而在大三的欧洲之旅中，她遭受了一次严重的身份危机。她原本独自一人在威尔士小镇找到了难得的内心平静，在意大利佛罗伦萨和Andrew, Nathan重聚后，她发现了两人已经成为了情侣。尽管三人之间还是有着像从前一样的友谊，Celia却第一次察觉到了Andrew和Nathan之间有了一种只属于两人的暗码，她嫉妒向往这种超出友谊的亲密关系，而Andrew, Nathan过了几天吵架，两人分别向Celia吐露他们第一次上床的秘密，两人描述的不同角度更是让Celia意识到了自己所缺乏的体验。
 
-[Link](url) and ![Image](src)
-```
+现在在下午躺在Nathan豪宅的泳池边，Celia刚刚看着Andrew和Nathan又因为Nathan不肯出柜吵架，Nathan气得躲进房间里。两人已经不是第一次进行这种争吵，大学时Andrew曾经去Nathan的宿舍见男友，然而没出柜的Nathan却对Andrew这种越界的行为很生气，受伤的Andrew找到Celia大哭一场。Andrew曾经是一个懵懂的小男生，两人在意大利的第一次上床是Nathan主动引导，然而现在两人23岁，Nathan还在柜子里做着爸爸的乖乖儿子，然而Andrew却早已出柜获得父母支持，正准备再一次参加骄傲游行。现在Andrew反而是勇敢的一方。Andrew再一次对Celia坦白心事，Celia突然顿悟自己的满足和存在感很大程度上源自Andrew/Nathan其中一方的不快乐，之后Andrew走进房间里安慰Nathan, 两人在傍晚和好。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+这篇故事写得最好的就是欧洲之旅的那一段，不仅Celia在那次旅行里对自己的身份产生了新的认识，而且Andrew和Nathan两人的根本性不同也在那场旅行里暴露出来。Celia对威尔士小镇的迷恋是她孤独内心的写照和慰藉，当她在佛罗伦萨遭受好友成为恋人的打击时，她即便囊中羞涩也花了剩下所有的钱飞回了威尔士享受那份独处的宁静。在佛罗伦萨Andrew在写一篇艺术品的论文，他动用了想象和通感写出了文章，然而Nathan却认为这是对学术分析的践踏。两人的争论显示出Andrew更随性活泼，而Nathan更加谨慎，而这一场争论也铺下了两人日后对于性取向看法的分歧。
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/Dedicated.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+这个短篇只是Celia和Nathan故事的第一篇，别看我上面好像写了很多，但其实这个故事很短只有几十页，作者David Leavitt的叙事本身就比较简短。第二篇A Place I’ve Never Been发生在Celia七年后和Nathan的再一次相聚，第三篇I See London, I See France里Celia和男友来到意大利郊区拜访一户富人家
